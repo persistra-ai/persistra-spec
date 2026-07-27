@@ -1,0 +1,137 @@
+# Persistent RFC Specifications - Source-Available License
+
+**Version:** 1.0  
+**Effective Date:** July 16, 2026  
+**Copyright:** © 2026 Exocortical Concepts, Inc. All rights reserved.
+
+---
+
+## 1. Grant of Copyright License
+
+Subject to the terms and conditions of this License, Exocortical Concepts, Inc. ("Licensor") hereby grants you a worldwide, royalty-free, non-exclusive, non-transferable license to:
+
+- **View** the RFC specifications
+- **Use** the RFCs for evaluation, testing, and non-commercial research purposes
+- **Study** the normative requirements and architectural specifications
+- **Cite** the RFCs in academic or technical work with proper attribution
+- **Implement** the RFCs subject to patent licensing and conformance requirements
+- **Reference** RFC numbers and titles in documentation
+
+## 2. Restrictions
+
+You may NOT:
+
+- Use these RFCs for commercial purposes without a separate commercial license
+- Remove or alter any copyright, trademark, or patent notices
+- Republish or redistribute these RFCs without permission
+- Create derivative RFC specifications without permission
+- Create competing standards based on these RFCs
+- Use the "RFC-PCS" prefix for your own specifications
+- Modify RFCs and claim the modified version is an official PCS specification
+- Claim that your implementation is "PCS-compliant" or "PCS-certified" without passing PCS-CTS and obtaining certification
+
+## 3. Patent Notice
+
+**IMPORTANT:** This License does NOT grant any patent rights.
+
+Implementation of PCS RFC specifications may require licenses to patents owned by Exocortical Concepts, Inc. and/or other parties. These RFCs are provided to define normative requirements for PCS implementations.
+
+**Patent Disclosure:** See INTELLECTUAL_PROPERTY_NOTICE.md and RFC-PCS-0007 for complete patent disclosure framework and FRAND licensing terms.
+
+**RFC-PCS-0007 is the authoritative document for patent disclosure and FRAND licensing.**
+
+**Commercial Use:** For commercial deployment, contact ip@persistra.ai regarding patent licensing.
+
+## 4. RFC Rights Reservation
+
+**All rights to PCS RFC specifications are reserved.**
+
+The RFC-PCS-XXXX numbering scheme and naming convention are proprietary to Exocortical Concepts, Inc.
+
+**Only RFCs published in this official repository are authoritative.**
+
+Unofficial copies, mirrors, or derivatives are not authoritative and may be outdated or incorrect.
+
+## 5. Trademark Notice
+
+"Persistra," "PCS," "Persistent Cognitive Substrate," "Persistra Cognitive Standard," and "RFC-PCS" (as a series designation) are trademarks of Exocortical Concepts, Inc.
+
+Use of these marks requires prior written permission, except for truthful, nominative references to official RFCs with proper attribution.
+
+## 6. Conformance and Certification
+
+- Claiming "PCS conformance" or "RFC-PCS-XXXX compliance" requires passing PCS Conformance Test Suite (PCS-CTS)
+- Claiming "PCS certification" requires certification from the PCS Certification Authority as defined in RFC-PCS-0006
+- Conformance is level-specific (L1, L2, L3, L4) and must be stated accurately
+- Partial conformance must be disclosed
+- Unauthorized conformance or certification claims constitute misrepresentation
+
+## 7. RFC Implementation Requirements
+
+Implementing PCS RFCs requires:
+1. **Technical Compliance:** Adherence to all normative (MUST/REQUIRED) requirements
+2. **Patent License:** License to essential patents for implemented conformance levels
+3. **Conformance Testing:** Passing PCS-CTS for claimed conformance level
+4. **Certification:** Obtaining certification for public conformance claims
+
+## 8. Normative vs. Informative Content
+
+RFCs contain both normative (MUST/REQUIRED) and informative (MAY/OPTIONAL) content.
+
+**Patent protection applies to:**
+- Normative requirements (essential patents)
+- Informative mechanisms (may be patented but not essential)
+- Examples and illustrations (may embody patented mechanisms)
+- Architectural patterns described in RFCs
+
+## 9. RFC Dependencies
+
+Some RFCs depend on or reference other RFCs.
+
+**Patent licensing must cover all implemented RFCs and their dependencies.**
+
+## 10. RFC Updates and Versions
+
+RFCs may be updated, superseded, or obsoleted over time.
+
+**Always refer to the latest version in this official repository.**
+
+Material changes to RFCs will be communicated through:
+- Repository commit history
+- RFC status and version updates
+- Announcements at persistra.ai
+- Direct notification to certified implementers (when feasible)
+
+## 11. Standards Submission
+
+Exocortical Concepts, Inc. reserves the right to submit PCS RFCs to standards development organizations (SDOs) such as IETF, W3C, ISO/IEC JTC 1, or others.
+
+Any such submission will be accompanied by appropriate IP disclosures and licensing commitments.
+
+## 12. Disclaimer of Warranty
+
+THESE RFC SPECIFICATIONS ARE PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, ACCURACY, COMPLETENESS, OR FREEDOM FROM ERRORS.
+
+## 13. Limitation of Liability
+
+IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THESE RFC SPECIFICATIONS.
+
+## 14. Termination
+
+This License terminates automatically if you violate any of its terms. Upon termination, you must cease all use and destroy all copies.
+
+## 15. Governing Law
+
+This License is governed by the laws of the State of Delaware, United States.
+
+---
+
+**For Commercial Licensing:** partnerships@persistra.ai  
+**For Patent Licensing:** ip@persistra.ai  
+**For RFC Clarifications (NDA):** research@persistra.ai  
+**For Certification:** certification@persistra.ai  
+**For IP Questions:** See INTELLECTUAL_PROPERTY_NOTICE.md
+
+---
+
+**This is a source-available license, not an open-source license. It permits viewing and evaluation but restricts commercial use and does not grant patent rights.**
