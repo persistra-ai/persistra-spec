@@ -1,6 +1,6 @@
 # PCS Engagement Status
 
-**Current status and how to engage with the Persistra Cognitive Standard**
+**Current status and how to engage with the Persistent Cognitive Substrate**
 
 ---
 
@@ -35,10 +35,10 @@
 
 ### Validation Suite ✅
 
-**Persistra Conformance Test Suite (CTS):**
+**Persistent Cognitive Substrate Conformance Test Suite (PCS-CTS):**
 - Repository: [persistra-cts](https://github.com/persistra-ai/persistra-cts)
 - Version: 1.0.0
-- Tests: 26 tests, 312+ assertions
+- Tests: 31 tests, 364 assertions
 - Coverage: L1-L3 conformance levels
 - Status: Production-ready
 
